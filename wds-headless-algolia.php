@@ -1,15 +1,17 @@
 <?php
 /**
- * Plugin Name: WDS Headless (Algolia)
- * Plugin URI: https://github.com/WebDevStudios/nextjs-wordpress-starter
- * Description: WDS Headless extension handling Algolia functionality.
- * Author: WebDevStudios <contact@webdevstudios.com>
- * Author URI: https://webdevstudios.com
+ * Plugin Name: Cuttlesoft Headless (Algolia)
+ * Plugin URI: https://github.com/cuttlesoft/wds-headless-algolia
+ * Description: Headless extension handling Algolia functionality.
+ * Author: Cuttlesoft <engineering@cuttlesoft.com>
+ * Author URI: https://cuttlesoft.com
  * Version: 1.0.0
  * Requires at least: 5.6
  * Requires PHP: 7.4
  * License: GPL-2
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
+ * GitHub Plugin URI: https://github.com/cuttlesoft/wds-headless-algolia
+ * Primary Branch: cuttle-main
  *
  * @package WDS_Headless_Algolia
  */
